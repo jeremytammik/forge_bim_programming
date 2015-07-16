@@ -1,3 +1,3 @@
-# NYC-Meetup
-Adding the material from the Meetup presentation happening in the nyc boroughs. On View and Data API.
-http://jaimerosales.github.io/NYC-Meetup. 
+# London Prehack Meetup
+Adding the material for pre-hack meetup in London On View and Data API.
+http://jaimerosales.github.io/london-prehack 
