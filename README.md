@@ -14,7 +14,7 @@ the [Instituto Superior de Engenharia do Porto](http://www.isep.ipp.pt) in Porto
 
 For more information on Forge, please refer
 to the overview at [forge.autodesk.com](https://forge.autodesk.com)
-and all the technical details, samples and further documentaion
+and all the technical details, samples and further documentation
 at [developer.autodesk.com](https://developer.autodesk.com).
 
 To view this presentation, visit [jeremytammik.github.io/bim_programming](http://jeremytammik.github.io/bim_programming).
