@@ -1,14 +1,23 @@
-# BIM Programming Madrid
+# BIM Programming
 
 A [reveal.js](https://github.com/hakimel/reveal.js) presentation
 on [WebGL](https://www.khronos.org/webgl) and
-the [View and Data API](https://developer.autodesk.com) for
-the [BIM Programming](http://www.bimprogramming.com) conference and workshops in Madrid, Nanuary 26-27, 2016.
+the [Autodesk Forge platform](https://developer.autodesk.com).
 
-Please also refer to
-the [View and Data API intro for BIM Programming](http://the3dwebcoder.typepad.com/blog/2016/01/view-and-data-api-intro-for-bim-programming.html)
+First used for
+the [BIM Programming](http://www.bimprogramming.com) conference and workshops in Madrid, January 2016.
 
-View the presentation at http://jeremytammik.github.io/bim_programming_madrid.
+Updated for 
+the [RTC Revit Technology Conference Europe](http://www.rtcevents.com/rtc2016eur) and 
+the [ISEPBIM](https://www.facebook.com/ISEPBIM) Forge and BIM workshops at [ISEP](http://www.isep.ipp.pt), 
+the [Instituto Superior de Engenharia do Porto](http://www.isep.ipp.pt) in Porto, October 2016.
+
+For more information on Forge, please refer
+to the overview at [forge.autodesk.com](https://forge.autodesk.com)
+and all the technical details, samples and further documentaion
+at [developer.autodesk.com](https://developer.autodesk.com).
+
+To view this presentation, visit [jeremytammik.github.io/bim_programming](http://jeremytammik.github.io/bim_programming).
 
 
 ## Author
