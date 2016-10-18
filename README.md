@@ -22,7 +22,10 @@ To view this presentation, visit [jeremytammik.github.io/bim_programming](http:/
 
 ## Author
 
-Jeremy Tammik,
+- [Jaime Rosales D.](https://github.com/jaimerosales),
+[Developer Advocate](https://github.com/Developer-Autodesk),
+Lover of 3D Web and Serious Foodie
+- Jeremy Tammik,
 [The Building Coder](http://thebuildingcoder.typepad.com) and
 [The 3D Web Coder](http://the3dwebcoder.typepad.com),
 [ADN](http://www.autodesk.com/adn)
