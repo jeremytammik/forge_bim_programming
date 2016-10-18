@@ -1,8 +1,8 @@
-# BIM Programming
+# Forge for BIM Programming
 
 A [reveal.js](https://github.com/hakimel/reveal.js) presentation
-on [WebGL](https://www.khronos.org/webgl) and
-the [Autodesk Forge platform](https://developer.autodesk.com).
+on [WebGL](https://www.khronos.org/webgl)
+and [Autodesk Forge platform](https://developer.autodesk.com) introduction.
 
 First used for
 the [BIM Programming](http://www.bimprogramming.com) conference and workshops in Madrid, January 2016.
@@ -17,7 +17,7 @@ to the overview at [forge.autodesk.com](https://forge.autodesk.com)
 and all the technical details, samples and further documentation
 at [developer.autodesk.com](https://developer.autodesk.com).
 
-To view this presentation, visit [jeremytammik.github.io/bim_programming](http://jeremytammik.github.io/bim_programming).
+To view this presentation, visit [jeremytammik.github.io/forge_bim_programming](http://jeremytammik.github.io/forge_bim_programming).
 
 
 ## Author
