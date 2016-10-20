@@ -17,6 +17,10 @@ to the overview at [forge.autodesk.com](https://forge.autodesk.com)
 and all the technical details, samples and further documentation
 at [developer.autodesk.com](https://developer.autodesk.com).
 
+For sample code here on GitHub, please
+explore [@Developer-Autodesk](https://github.com/Developer-Autodesk) 
+and [@Autodesk-Forge](https://github.com/Autodesk-Forge).
+
 To view this presentation, visit [jeremytammik.github.io/forge_bim_programming](http://jeremytammik.github.io/forge_bim_programming).
 
 
